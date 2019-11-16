@@ -7,8 +7,11 @@ public class HalloWorld {
 
 
         System.out.println("Raz Dwa Trzy");
-        
+
+        System.out.println("smieci smieci smieci");
+
     }
+
 
 
 }
